@@ -1,6 +1,7 @@
 {
   "name": "robofriends",
   "version": "0.1.0",
+  "homepage": "http://VisheshSingh.github.io/RoboFriends",
   "private": true,
   "dependencies": {
     "react": "^16.6.3",
@@ -12,8 +13,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "homepage": "http://VisheshSingh.github.io/RoboFriends"
+    "eject": "react-scripts eject"
+    
   },
   "eslintConfig": {
     "extends": "react-app"
