@@ -5,7 +5,6 @@ export default function Scroll(props) {
     <div
       style={{
         overflow: "scroll",
-        border: "1px solid green",
         height: "800px"
       }}
     >
